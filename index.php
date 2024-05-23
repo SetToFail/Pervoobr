@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Pervoobr</title>
+	<title>find ip in txt</title>
 </head>
 <body>
 	<input type="text" placeholder="N" class="textop" name="color">
